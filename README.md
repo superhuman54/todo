@@ -1,3 +1,3 @@
 # Todos
 
-Kotlin based
+Vuejs in Kotlin
